@@ -7,4 +7,5 @@ frontend
 npm-debugs.log
 .DS_Store
 .DS_Store?
+public/upload
  *.swp

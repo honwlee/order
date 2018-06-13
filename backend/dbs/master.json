@@ -1,0 +1,34 @@
+{
+  "tables": [
+    {
+      "id": 1,
+      "name": "users",
+      "spaceFileName": "_users.json",
+      "autoOpen": true
+    },
+    {
+      "id": 5,
+      "name": "orders",
+      "spaceFileName": "_orders.json",
+      "autoOpen": true
+    },
+    {
+      "id": 3,
+      "name": "inspections",
+      "spaceFileName": "_inspections.json",
+      "autoOpen": true
+    },
+    {
+      "id": 4,
+      "name": "installations",
+      "spaceFileName": "_installations.json",
+      "autoOpen": true
+    },
+    {
+      "id": 5,
+      "name": "companies",
+      "spaceFileName": "_companies.json",
+      "autoOpen": true
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+node_modules
+backup
+logs
+log
+dump.rdb
+frontend
+npm-debugs.log
+.DS_Store
+.DS_Store?
+ *.swp

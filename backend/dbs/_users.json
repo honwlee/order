@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "$2a$08$d1RuTnbWMviPo/k5YKdfB.MTmi6EXXXs0f.EFZ1hOWbqYGr1Y93am",
+      "role": 1,
+      "region": "1",
+      "isActive": true,
+      "isAdmin": true,
+      "id": "r14o8pFAf",
+      "createdAt": "2018-05-16T14:56:28.464Z",
+      "updatedAt": "2018-06-11T15:22:07.148Z",
+      "delayed": true
+    },
+    {
+      "display": "hudao",
+      "username": "hudao",
+      "password": "$2a$08$sQK5ktpHi0V7etVfNyY9R.flB2pcFcp3VW6fDcHg60P5Og/o9y9E6",
+      "isAdmin": true,
+      "role": 999,
+      "isSuperAdmin": true,
+      "isActive": true,
+      "id": "BylOjcbhlm",
+      "createdAt": "2018-06-11T14:43:43.579Z",
+      "updatedAt": "2018-06-11T14:43:43.579Z"
+    },
+    {
+      "display": "delay",
+      "username": "delay",
+      "password": "$2a$08$/cBjUpK3WKechoAHnLLQV.ykKWHM3dl6J5gUqnXdK370xBIciUKYW",
+      "role": 999,
+      "isAdmin": true,
+      "isSuperAdmin": true,
+      "isActive": true,
+      "id": "S1z_s5W3xm",
+      "createdAt": "2018-06-11T14:43:43.640Z",
+      "updatedAt": "2018-06-13T13:56:10.306Z",
+      "delayed": false,
+      "msg": "请联系管理员！",
+      "title": "出错了"
+    }
+  ]
+}

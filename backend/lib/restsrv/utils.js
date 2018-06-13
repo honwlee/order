@@ -1,0 +1,1 @@
+"use strict";function getPage(e,t,g){var n={},l=(t-1)*g,r=t*g;return n.items=e.slice(l,r),0===n.items.length?n:(t>1&&(n.prev=t-1),r<e.length&&(n.next=t+1),n.items.length!==e.length&&(n.current=t,n.first=1,n.last=Math.ceil(e.length/g)),n)}module.exports={getPage};

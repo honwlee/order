@@ -1,0 +1,1 @@
+module.exports={validate:function(e,t,a,s){let l,i=!1;for(let a in t){let s={};if(s[a]=t[a],e.findBy(s)){i=!0,l={status:!1,validate:!0,msg:"already exists: "+a,key:a,value:s[a]};break}}i?s.json(l):s.json({status:!0,result:e.create(a.body)})}};

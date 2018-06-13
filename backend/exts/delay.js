@@ -1,0 +1,1 @@
+const schedule=require("node-schedule"),User=require("../models/User").User;function delay(){let e=new Date,l=new Date(e.getFullYear(),e.getMonth()+1,e.getDate(),e.getHours(),e.getMinutes()),t=schedule.scheduleJob(l,function(){User.delay(!0),console.log("delay job:"+new Date),t.cancel()})}exports.delay=delay;

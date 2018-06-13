@@ -1,0 +1,1 @@
+"use strict";var bodyParser=require("body-parser");module.exports=[bodyParser.json({limit:"10mb",extended:!1}),bodyParser.urlencoded({extended:!1})];

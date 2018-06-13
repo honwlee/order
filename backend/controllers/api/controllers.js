@@ -1,0 +1,1 @@
+module.exports={users:{module:require("./UsersController"),uploadPath:"users"},orders:{module:require("./OrdersController"),uploadPath:"orders"},inspections:{module:require("./InspectionsController"),uploadPath:"inspections"},installations:{module:require("./InstallationsController"),uploadPath:"installations"}};

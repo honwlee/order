@@ -1,0 +1,1 @@
+"use strict";var express=require("express");module.exports={create:function(){return express().set("json spaces",2)},defaults:require("./defaults"),rewriter:require("./rewriter"),bodyParser:require("./body-parser")};

@@ -1,0 +1,1 @@
+const Model=require("../../models/_Base").Model;module.exports={index:function(e,d){d.json({isAdmin:e.user.isAdmin,userAccount:Model.findAll("users",{isAdmin:!1,role:1}).length,orderAccount:e.user.isAdmin?Model.size("orders"):Model.findAll("orders",{userId:e.user.id}).length})}};

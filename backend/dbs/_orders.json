@@ -1,0 +1,46 @@
+{
+  "orders": [
+    {
+      "id": "HyH9fiAgm",
+      "customer": "1",
+      "phone": "1",
+      "weixin": "1",
+      "weibo": "1",
+      "checker": "1",
+      "enginer": "1",
+      "licensePlate": "1",
+      "carType": "1",
+      "engineNum": "1",
+      "runAccount": "1",
+      "userId": "BylOjcbhlm",
+      "uuid": "a43934f5-5d9f",
+      "pickTime": "2018-06-13T13:56:28.763Z",
+      "createdAt": "2018-06-13T13:56:28.789Z",
+      "updatedAt": "2018-06-13T13:59:33.566Z",
+      "installation": {
+        "id": "",
+        "productRoll": "2",
+        "warrantyNum": "2",
+        "color": "2",
+        "time": "2",
+        "productType": "1",
+        "position": "1",
+        "orderId": "HyH9fiAgm"
+      },
+      "inspection": {
+        "id": "",
+        "hood": "3",
+        "door": "3",
+        "frontWing": "3",
+        "backWing": "3",
+        "frontGuard": "3",
+        "backGuard": "3",
+        "trunk": "3",
+        "side": "3",
+        "fastback": "3",
+        "orderId": "HyH9fiAgm"
+      },
+      "src": "/upload/orders/HyH9fiAgm.png"
+    }
+  ]
+}
